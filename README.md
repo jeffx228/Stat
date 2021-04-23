@@ -1,0 +1,1 @@
+This is a collection of statistical inference and probability modeling problems that I did while in Stat 111: Introduction to Statistical Inference at Harvard.
