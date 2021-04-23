@@ -1,0 +1,493 @@
+Ticker,Company,CEO,Year,Compensation
+GOOGL,Alphabet Inc.,Sundar Pichai,2019,280621552
+INTC,Intel Corporation,Robert Swan,2019,66935100
+AMD,"Advanced Micro Devices, Inc.",Lisa Su,2019,58534288
+HWM,Howmet Aerospace Inc.,John Plant,2019,51712578
+DIS,The Walt Disney Company,Robert Iger,2019,47517762
+DISCA,"Discovery, Inc.",David Zaslav,2019,45843912
+KHC,The Kraft Heinz Company,Miguel Patricio,2019,43297480
+MSFT,Microsoft Corporation,Satya Nadella,2019,42910215
+FOXA,Fox Corporation,Lachlan Murdoch,2019,42111103
+NOW,"ServiceNow, Inc.",William McDermott,2019,41682335
+ADBE,"Adobe, Inc.",Shantanu Narayen,2019,39145631
+NFLX,"Netflix, Inc.",Reed Hastings,2019,38577129
+CVS,CVS Health Corporation,Larry Merlo,2019,36451749
+CMCSA,Comcast Corporation,Brian Roberts,2019,36370183
+CAT,Caterpillar Inc.,Donald Umpleby III,2019,34519129
+WFC,Wells Fargo & Company,Charles Scharf,2019,34286574
+CVX,Chevron Corporation,Michael Wirth,2019,33070662
+T,AT&T Inc.,Randall Stephenson,2019,32032925
+PSX,Phillips 66,Greg Garland,2019,31900878
+MS,Morgan Stanley,James Gorman,2019,31642395
+JPM,JPMorgan Chase & Co.,James Dimon,2019,31612616
+LMT,Lockheed Martin Corporation,Marillyn Hewson,2019,30913982
+PLD,"Prologis, Inc.",Hamid Moghadam,2019,30383438
+COP,ConocoPhillips,Ryan Lance,2019,30363744
+ATVI,"Activision Blizzard, Inc.",Robert Kotick,2019,30122896
+GILD,"Gilead Sciences, Inc.",Daniel O'Day,2019,29107854
+LHX,"L3Harris Technologies, Inc.",William Brown,2020,29037879
+VLO,Valero Energy Corporation,Joseph Gorder,2019,28200511
+SO,The Southern Company,Thomas Fanning,2019,27865185
+ABT,Abbott Laboratories,Miles White,2019,27802817
+TMUS,"T-Mobile US, Inc.",John Legere,2019,27756690
+FIS,"Fidelity National Information Services, Inc.",Gary Norcross,2019,27658117
+MRK,"Merck & Co., Inc.",Kenneth Frazier,2019,27648475
+FISV,"Fiserv, Inc.",Jeffery Yabuki,2019,27601026
+HCA,"HCA Healthcare, Inc.",Samuel Hazen,2019,26788251
+CNC,Centene Corporation,Michael Neidorff,2019,26438425
+BAC,Bank of America Corporation,Brian Moynihan,2019,26039213
+CRM,"salesforce.com, inc.",Marc Benioff,2020,25969494
+CSCO,"Cisco Systems, Inc.",Charles Robbins,2019,25829833
+PYPL,"PayPal Holdings, Inc.",Daniel Schulman,2019,25825473
+C,Citigroup Inc.,Michael Corbat,2019,25508761
+JNJ,Johnson & Johnson,Alex Gorsky,2019,25365777
+CMI,Cummins Inc.,N. Linebarger,2019,25116751
+LVS,Las Vegas Sands Corp.,Sheldon Adelson,2019,24680118
+GS,"The Goldman Sachs Group, Inc.",David Solomon,2019,24657737
+GE,General Electric Company,H. Culp Jr.,2019,24553788
+AMP,"Ameriprise Financial, Inc.",James Cracchiolo,2019,24516930
+UHS,"Universal Health Services, Inc.",Alan Miller,2019,24473240
+BLK,"BlackRock, Inc.",Laurence Fink,2019,24308254
+V,Visa Inc.,Alfred Kelly Jr.,2019,24265771
+TT,Trane Technologies Plc,Michael Lamach,2019,24217128
+MPC,Marathon Petroleum Corporation,Gary Heminger,2019,24129164
+AXP,American Express Company,Stephen Squeri,2019,23796002
+MSI,"Motorola Solutions, Inc.",Gregory Brown,2019,23619990
+XOM,Exxon Mobil Corporation,Darren Woods,2019,23494929
+FB,"Facebook, Inc.",Mark Zuckerberg,2019,23415973
+MA,Mastercard Incorporated,Ajay Banga,2019,23249977
+QCOM,QUALCOMM Incorporated,Steven Mollenkopf,2019,23065052
+LIN,Linde Plc,Stephen Angel,2019,22475878
+IQV,"IQVIA Holdings, Inc.",Ari Bousbib,2019,22139776
+PM,Philip Morris International Inc.,Andre Calantzopoulos,2019,22125060
+WMT,Walmart Inc.,C. McMillon,2020,22105350
+NEE,"NextEra Energy, Inc.",James Robo,2019,21877597
+DE,Deere & Company,Samuel Allen,2019,21697885
+GM,General Motors Company,Mary Barra,2019,21630867
+ABBV,AbbVie Inc.,Richard Gonzalez,2019,21610598
+REGN,"Regeneron Pharmaceuticals, Inc.",Leonard Schleifer,2019,21455117
+EL,"The Estee Lauder Companies, Inc.",Fabrizio Freda,2019,21435428
+HLT,"Hilton Worldwide Holdings, Inc.",Christopher Nassetta,2019,21374121
+EA,Electronic Arts Inc.,Andrew Wilson,2020,21365751
+LLY,Eli Lilly and Company,David Ricks,2019,21283242
+ZTS,Zoetis Inc.,Juan Alaix,2019,21145419
+PAYC,"Paycom Software, Inc.",Chad Richison,2019,21138558
+KR,The Kroger Co.,W. McMullen,2020,21129648
+SLG,SL Green Realty Corp.,Marc Holliday,2019,20990016
+HON,Honeywell International Inc.,Darius Adamczyk,2019,20525104
+KLAC,KLA Corporation,Richard Wallace,2019,20512367
+GPN,Global Payments Inc.,Jeffrey Sloan,2019,20502096
+PG,The Procter & Gamble Company,David Taylor,2019,20498812
+CB,Chubb Limited,Evan Greenberg,2019,20475070
+MMC,"Marsh & McLennan Companies, Inc.",Daniel Glaser,2019,20331697
+NOC,Northrop Grumman Corporation,Kathy Warden,2019,20307994
+EMR,Emerson Electric Co.,David Farr,2019,20301576
+IBM,International Business Machines Corporation,Virginia Rometty,2019,20160865
+ETN,Eaton Corporation plc,Craig Arnold,2019,19962364
+OMC,"Omnicom Group, Inc.",John Wren,2019,19818780
+SRE,Sempra Energy,Jeffrey Martin,2019,19806346
+ES,Eversource Energy,James Judge,2019,19806088
+ECL,Ecolab Inc.,Douglas Baker,2019,19803193
+ALL,The Allstate Corporation,Thomas Wilson,2019,19615696
+AMGN,Amgen Inc.,Robert Bradway,2019,19612793
+ANSS,"ANSYS, Inc.",Ajei Gopal,2019,19591413
+AIG,"American International Group, Inc.",Brian Duperreault,2019,19369637
+HPQ,HP Inc.,Dion Weisler,2019,19317972
+CI,Cigna Corporation,David Cordani,2019,19303032
+SBUX,Starbucks Corporation,Kevin Johnson,2019,19241950
+WBA,"Walgreens Boots Alliance, Inc.",Stefano Pessina,2019,19156202
+CDNS,"Cadence Design Systems, Inc.",Lip-Bu Tan,2019,19146556
+SLB,Schlumberger NV,Olivier Peuch,2019,19117170
+NUE,Nucor Corporation,John Ferriola,2019,19099582
+TJX,"The TJX Companies, Inc.",Ernie Herrman,2020,19083676
+TMO,Thermo Fisher Scientific Inc.,Marc Casper,2019,19023145
+ADP,"Automatic Data Processing, Inc.",Carlos Rodriguez,2019,19000187
+ALXN,"Alexion Pharmaceuticals, Inc.",Ludwig Hantson,2019,18947984
+TGT,Target Corporation,Brian Cornell,2020,18938363
+TXT,Textron Inc.,Scott Donnelly,2020,18921598
+UNH,UnitedHealth Group Incorporated,David Wichmann,2019,18886989
+ROP,"Roper Technologies, Inc.",L. Hunn,2019,18812414
+VRTX,Vertex Pharmaceuticals Incorporated,Jeffrey Leiden,2019,18789985
+USB,U.S. Bancorp,Andrew Cecere,2019,18785026
+BMY,Bristol-Myers Squibb Company,Giovanni Caforio,2019,18767253
+KO,The Coca-Cola Company,James Quincey,2019,18701149
+WLTW,Willis Towers Watson Public Limited Company,John Haley,2019,18691731
+SWK,"Stanley Black & Decker, Inc.",James Loree,2019,18687549
+TXN,Texas Instruments Incorporated,Richard Templeton,2019,18633807
+MYL,Mylan N.V.,Heather Bresch,2019,18509260
+MMM,3M Company,Michael Roman,2019,18321566
+GD,General Dynamics Corporation,Phebe Novakovic,2019,18313204
+LEN,Lennar Corporation,Richard Beckwitt,2019,18279581
+ALGN,"Align Technology, Inc.",Joseph Hogan,2019,18269139
+DHR,Danaher Corporation,Thomas Joyce,2019,18193200
+BIIB,Biogen Inc.,Michel Vounatsos,2019,18159858
+ADM,Archer-Daniels-Midland Company,Juan Luciano,2019,18140421
+MDLZ,"Mondelez International, Inc.",Dirk de Put,2019,18115449
+VZ,Verizon Communications Inc.,Hans Vestberg,2019,18095355
+AMT,American Tower Corporation,James Taiclet Jr.,2019,18095288
+UPS,"United Parcel Service, Inc.",David Abney,2019,18030925
+HAS,"Hasbro, Inc.",Brian Goldner,2019,17960878
+PFE,Pfizer Inc.,Albert Bourla,2019,17928963
+NCLH,Norwegian Cruise Line Holdings Ltd.,Frank Rio,2019,17808364
+MDT,Medtronic Plc,Omar Ishrak,2019,17796325
+EBAY,eBay Inc.,Scott Schenkel,2019,17647256
+INTU,Intuit Inc.,Sasan Goodarzi,2019,17506677
+PH,Parker-Hannifin Corporation,Thomas Williams,2019,17472500
+PVH,PVH Corp.,Emanuel Chirico,2020,17464313
+F,Ford Motor Company,James Hackett,2019,17355506
+DAL,"Delta Air Lines, Inc.",Edward Bastian,2019,17325378
+D,"Dominion Energy, Inc.",Thomas Farrell,2019,17257035
+CTL,"CenturyLink, Inc.",Jeffrey Storey,2019,17235108
+APD,"Air Products and Chemicals, Inc.",Seifollah Ghasemi,2019,17031957
+MU,"Micron Technology, Inc.",Sanjay Mehrotra,2019,16944751
+XEL,Xcel Energy Inc.,Benjamin Fowke III,2019,16898798
+PEP,"PepsiCo, Inc.",Ramon Laguarta,2019,16870817
+DVA,DaVita Inc.,Javier Rodriguez,2019,16853460
+HSY,The Hershey Company,Michele Buck,2019,16787188
+TRV,"The Travelers Companies, Inc.",Alan Schnitzer,2019,16778809
+HUM,Humana Inc.,Bruce Broussard,2019,16726455
+NSC,Norfolk Southern Corporation,James Squires,2019,16636674
+ABMD,"ABIOMED, Inc.",Michael Minogue,2020,16612766
+VFC,VF Corp.,Steven Rendle,2020,16600591
+IPG,"The Interpublic Group of Companies, Inc.",Michael Roth,2019,16590172
+EQIX,"Equinix, Inc.",Charles Meyers,2019,16575596
+PNC,"The PNC Financial Services Group, Inc.",William Demchak,2019,16535810
+PKI,"PerkinElmer, Inc.",Robert Friel,2019,16481787
+YUM,"Yum! Brands, Inc.",Greg Creed,2019,16369090
+COTY,Coty Inc.,Pierre Laubies,2019,16211992
+SCHW,The Charles Schwab Corporation,Walter Bettinger II,2019,16101141
+CMG,"Chipotle Mexican Grill, Inc.",Brian Niccol,2019,16068144
+FANG,"Diamondback Energy, Inc.",Travis Stice,2019,16049656
+BDX,"Becton, Dickinson and Company",Vincent Forlenza,2019,16014633
+OXY,Occidental Petroleum Corporation,Vicki Hollub,2019,15990903
+FDX,FedEx Corporation,Frederick Smith,2019,15961974
+CTSH,Cognizant Technology Solutions Corporation,Brian Humphries,2019,15958002
+LYB,LyondellBasell Industries NV,Bhavesh V. Patel,2019,15943313
+IP,International Paper Company,Mark Sutton,2019,15924647
+DOW,"Dow, Inc.",James Fitterling,2019,15878639
+BSX,Boston Scientific Corporation,Michael Mahoney,2019,15764140
+FCX,"Freeport-McMoRan, Inc.",Richard Adkerson,2019,15742249
+WMB,"The Williams Companies, Inc.",Alan Armstrong,2019,15590339
+CAH,"Cardinal Health, Inc.",Michael Kaufmann,2019,15570944
+CSX,CSX Corporation,James Foote,2019,15527533
+JCI,Johnson Controls International Plc,George Oliver,2019,15476637
+ANTM,"Anthem, Inc.",Gail Boudreaux,2019,15473139
+EXC,Exelon Corporation,Christopher Crane,2019,15444692
+ITW,Illinois Tool Works Inc.,E. Santi,2019,15440345
+MCK,McKesson Corporation,Brian Tyler,2020,15435470
+MO,"Altria Group, Inc.",Howard Willard,2019,15417616
+LNC,Lincoln National Corporation,Dennis Glass,2019,15412217
+ED,"Consolidated Edison, Inc.",John McAvoy,2019,15345285
+APTV,Aptiv Plc,Kevin Clark,2019,15164533
+INCY,Incyte Corporation,Herve Hoppenot,2019,15151238
+PPG,"PPG Industries, Inc.",Michael McGarry,2019,15117938
+ACN,Accenture Plc,David Rowland,2019,15031875
+DUK,Duke Energy Corporation,Lynn Good,2019,15029386
+UNP,Union Pacific Corporation,Lance Fritz,2019,15018400
+PRU,"Prudential Financial, Inc.",Charles Lowrey,2019,14995398
+SYK,Stryker Corporation,Kevin Lobo,2019,14974829
+BKR,Baker Hughes Company,Lorenzo Simonelli,2019,14922621
+SHW,The Sherwin-Williams Company,John Morikis,2019,14854731
+BKNG,Booking Holdings Inc.,Glenn Fogel,2019,14768526
+PFG,"Principal Financial Group, Inc.",Daniel Houston,2019,14748051
+NWSA,News Corporation,Robert Thomson,2019,14747659
+FE,FirstEnergy Corp.,Charles Jones,2019,14684659
+TROW,"T. Rowe Price Group, Inc.",William Stromberg,2019,14588346
+MET,"MetLife, Inc.",Michel Khalaf,2019,14570581
+LYV,"Live Nation Entertainment, Inc.",Michael Rapino,2019,14563122
+HIG,"The Hartford Financial Services Group, Inc.",Christopher Swift,2019,14560748
+EMN,Eastman Chemical Company,Mark Costa,2019,14556133
+CTXS,"Citrix Systems, Inc.",David Henshall,2019,14513856
+AEP,"American Electric Power Company, Inc.",Nicholas Akins,2019,14492436
+HSIC,"Henry Schein, Inc.",Stanley Bergman,2019,14422944
+ICE,"Intercontinental Exchange, Inc.",Jeffrey Sprecher,2019,14408908
+CAG,"Conagra Brands, Inc.",Sean Connolly,2019,14392748
+RCL,Royal Caribbean Cruises Ltd.,Richard Fain,2019,14358919
+DHI,"D.R. Horton, Inc.",David Auld,2019,14351631
+APA,Apache Corporation,John Christmann,2019,14287300
+GLW,Corning Incorporated,Wendell Weeks,2019,14283654
+EFX,Equifax Inc.,Mark Begor,2019,14281552
+ETR,Entergy Corporation,Leo Denault,2019,14264249
+BA,The Boeing Company,Dennis Muilenburg,2019,14250195
+PPL,PPL Corporation,William Spence,2019,14142567
+FTV,Fortive Corporation,James Lico,2019,14141477
+AFL,Aflac Incorporated,Daniel Amos,2019,14108852
+AMAT,"Applied Materials, Inc.",Gary Dickerson,2019,14072395
+MRO,Marathon Oil Corporation,Lee Tillman,2019,14050851
+PGR,The Progressive Corporation,Susan Griffith,2019,14041272
+WHR,Whirlpool Corporation,Marc Bitzer,2019,13999494
+MNST,Monster Beverage Corporation,Rodney Sacks,2019,13982434
+NKE,"NIKE, Inc.",Mark Parker,2019,13968022
+BWA,BorgWarner Inc.,Frederic Lissalde,2019,13947029
+BAX,Baxter International Inc.,Jose Almeida,2019,13913821
+NDAQ,"Nasdaq, Inc.",Adena Friedman,2019,13869287
+WYNN,Wynn Resorts Ltd.,Matthew Maddox,2019,13851298
+COG,Cabot Oil & Gas Corporation,Dan Dinges,2019,13830926
+DVN,Devon Energy Corporation,David Hager,2019,13795899
+MCO,Moody's Corporation,Raymond McDaniel Jr.,2019,13751632
+LRCX,Lam Research Corporation,Timothy Archer,2019,13745109
+HPE,Hewlett Packard Enterprise Company,Antonio Neri,2019,13714497
+SWKS,"Skyworks Solutions, Inc.",Liam Griffin,2019,13660593
+TIF,Tiffany & Co.,Alessandro Bogliolo,2020,13500457
+HES,Hess Corporation,John Hess,2019,13493661
+MAR,"Marriott International, Inc.",Arne Sorenson,2019,13435887
+CBRE,"CBRE Group, Inc.",Robert Sulentic,2019,13419419
+PXD,Pioneer Natural Resources Company,Scott Sheffield,2019,13355547
+DXC,DXC Technology Co.,Michael Salvino,2020,13320505
+NTAP,"NetApp, Inc.",George Kurian,2019,13164969
+MGM,MGM Resorts International,James Murren,2019,13146352
+WELL,"Welltower, Inc.",Thomas DeRosa,2019,13142124
+XRX,Xerox Holdings Corporation,Giovanni Visentin,2019,13137434
+TDG,TransDigm Group Incorporated,Kevin Stein,2019,13135200
+RF,Regions Financial Corporation,John Turner Jr.,2019,13115267
+RJF,"Raymond James Financial, Inc.",Paul Reilly,2019,13090394
+PEG,Public Service Enterprise Group Incorporated,Ralph Izzo,2019,13074227
+INFO,IHS Markit Ltd.,Lance Uggla,2019,13067316
+NBL,"Noble Energy, Inc.",David Stover,2019,13038313
+CXO,Concho Resources Inc.,Timothy Leach,2019,12958451
+NLSN,Nielsen Holdings Plc,David Kenny,2019,12936400
+FRC,First Republic Bank,James Herbert,2019,12884327
+WDC,Western Digital Corporation,Stephen Milligan,2019,12866469
+MCHP,Microchip Technology Incorporated,Steve Sanghi,2019,12864939
+NOV,"National Oilwell Varco, Inc.",Clay Williams,2019,12826364
+MKC,"McCormick & Company, Incorporated",Lawrence Kurzius,2019,12769185
+HAL,Halliburton Company,Jeffrey Miller,2019,12753614
+EOG,"EOG Resources, Inc.",William Thomas,2019,12738856
+UAL,"United Airlines Holdings, Inc.",Oscar Munoz,2019,12643005
+CCI,Crown Castle International Corp.,Jay Brown,2019,12620843
+RSG,"Republic Services, Inc.",Donald Slager,2019,12617294
+CERN,Cerner Corporation,Brent Shafer,2019,12538797
+BK,The Bank of New York Mellon Corporation,Thomas Gibbons,2019,12525701
+A,"Agilent Technologies, Inc.",Michael McMullen,2019,12520566
+HOLX,"Hologic, Inc.",Stephen MacMillan,2019,12374753
+TPR,"Tapestry, Inc.",Victor Luis,2019,12362240
+DLR,"Digital Realty Trust, Inc.",A. Stein,2019,12337700
+MLM,"Martin Marietta Materials, Inc.",C. Nye,2019,12198358
+RL,Ralph Lauren Corporation,Patrice Louvet,2020,12170470
+SYF,Synchrony Financial,Margaret Keane,2019,12169308
+SPGI,"S&P Global, Inc.",Douglas Peterson,2019,12152512
+KMB,Kimberly-Clark Corporation,Michael Hsu,2019,12028120
+ROST,"Ross Stores, Inc.",Barbara Rentler,2020,12024336
+DG,Dollar General Corporation,Todd Vasos,2020,12008059
+IT,"Gartner, Inc.",Eugene Hall,2019,11960245
+ADI,"Analog Devices, Inc.",Vincent Roche,2019,11948434
+BXP,"Boston Properties, Inc.",Owen Thomas,2019,11917600
+CME,CME Group Inc.,Terrence Duffy,2019,11867214
+BLL,Ball Corporation,John Hayes,2019,11855921
+EIX,Edison International,Pedro Pizarro,2019,11761702
+ROK,"Rockwell Automation, Inc.",Blake Moret,2019,11710165
+DD,"DuPont de Nemours, Inc.",C. Doyle,2019,11660634
+WRK,WestRock Company,Steven Voorhees,2019,11659257
+LOW,"Lowe's Companies, Inc.",Marvin Ellison,2020,11621369
+AAL,American Airlines Group Inc.,W. Parker,2019,11571714
+ADSK,"Autodesk, Inc.",Andrew Anagnost,2020,11569657
+AAPL,Apple Inc.,Timothy Cook,2019,11555466
+FMC,FMC Corporation,PIERRE BRONDEAU,2019,11536552
+EW,Edwards Lifesciences Corporation,Michael Mussallem,2019,11520973
+IVZ,Invesco Ltd.,Martin Flanagan,2019,11518949
+FLT,"FleetCor Technologies, Inc.",Ronald Clarke,2019,11504313
+NVDA,NVIDIA Corporation,Jen-Hsun Huang,2020,11492280
+TFC,Truist Financial Corporation,Kelly King,2019,11491109
+VNO,Vornado Realty Trust,Steven Roth,2019,11466885
+BBY,"Best Buy Co., Inc.",Corie Barry,2020,11440663
+XRAY,DENTSPLY SIRONA Inc.,Donald Casey Jr.,2019,11366243
+CTVA,"Corteva, Inc.",James Collins Jr.,2019,11357053
+VTR,"Ventas, Inc.",Debra Cafaro,2019,11348335
+ABC,AmerisourceBergen Corporation,Steven Collis,2019,11309930
+WM,"Waste Management, Inc.",James Fish,2019,11298101
+XLNX,"Xilinx, Inc.",Victor Peng,2020,11222252
+ZBH,"Zimmer Biomet Holdings, Inc.",Bryan Hanson,2019,11176720
+CCL,Carnival Corporation,Arnold Donald,2019,11149514
+JNPR,"Juniper Networks, Inc.",Rami Rahim,2019,11129890
+KEYS,"Keysight Technologies, Inc.",Ronald Nersesian,2019,11124216
+HOG,"Harley-Davidson, Inc.",Matthew Levatich,2019,11123478
+WRB,W.R. Berkley Corp.,W. Berkley Jr.,2019,11017931
+OKE,"ONEOK, Inc.",Terry Spencer,2019,10945741
+AKAM,"Akamai Technologies, Inc.",F. Leighton,2019,10937601
+AVB,"AvalonBay Communities, Inc.",Timothy Naughton,2019,10921362
+HD,"The Home Depot, Inc.",Craig Menear,2020,10889833
+IRM,Iron Mountain Incorporated,William Meaney,2019,10888949
+CL,Colgate-Palmolive Company,Noel Wallace,2019,10828665
+AES,The AES Corporation,Andres Gluski,2019,10827886
+PRGO,Perrigo Company plc,Murray Kessler,2019,10807772
+SYY,Sysco Corporation,Thomas Bene,2019,10732619
+SJM,The J. M. Smucker Company,Mark Smucker,2020,10728961
+DRI,"Darden Restaurants, Inc.",Eugene Lee Jr.,2019,10710578
+FBHS,"Fortune Brands Home & Security, Inc.",Christopher Klein,2019,10693887
+SIVB,SVB Financial Group,Greg Becker,2019,10677545
+LDOS,"Leidos Holdings, Inc.",Roger Krone,2020,10671271
+DLTR,"Dollar Tree, Inc.",Gary Philbin,2020,10604621
+SPG,"Simon Property Group, Inc.",David Simon,2019,10439378
+BEN,"Franklin Resources, Inc.",Gregory Johnson,2019,10431335
+TSN,"Tyson Foods, Inc.",Noel White,2019,10398160
+ATO,Atmos Energy Corporation,Michael Haefner,2019,10395993
+PKG,Packaging Corporation of America,Mark Kowlzan,2019,10338117
+DXCM,"DexCom, Inc.",Kevin Sayer,2019,10279373
+PWR,"Quanta Services, Inc.",Earl Austin Jr.,2019,10247932
+LEG,"Leggett & Platt, Incorporated",Karl Glassman,2019,10193912
+AME,"AMETEK, Inc.",David Zapico,2019,10176064
+SBAC,SBA Communications Corp.,Jeffrey Stoops,2019,10156251
+AIZ,"Assurant, Inc.",Alan Colberg,2019,10155682
+ZBRA,Zebra Technologies Corporation,Anders Gustafsson,2019,10150109
+DGX,Quest Diagnostics Incorporated,Stephen Rusckowski,2019,10118539
+WU,The Western Union Company,Hikmet Ersek,2019,10099500
+WY,Weyerhaeuser Company,Devin Stockfish,2019,9957168
+PEAK,"Healthpeak Properties, Inc.",Thomas Herzog,2019,9907966
+CFG,"Citizens Financial Group, Inc.",Bruce Saun,2019,9898442
+GIS,"General Mills, Inc.",Jeffrey Harmening,2019,9855417
+MOS,The Mosaic Company,James O'Rourke,2019,9767104
+UNM,Unum Group,Richard McKenney,2019,9727186
+AEE,Ameren Corporation,Warner Baxter,2019,9718998
+K,Kellogg Company,Steven Cahillane,2019,9694223
+KEY,KeyCorp,Beth Mooney,2019,9663988
+RMD,ResMed Inc.,Michael Farrell,2019,9635100
+FTNT,"Fortinet, Inc.",Ken Xie,2019,9629923
+SNPS,"Synopsys, Inc.",Aart Geus,2019,9627625
+VMC,Vulcan Materials Company,J. Hill,2019,9556186
+FFIV,"F5 Networks, Inc.",Francois Locoh-Donou,2019,9473457
+NTRS,Northern Trust Corporation,Michael O'Grady,2019,9459768
+VAR,"Varian Medical Systems, Inc.",Dow Wilson,2019,9446296
+HST,"Host Hotels & Resorts, Inc.",James Risoleo,2019,9434465
+KMX,"CarMax, Inc.",William Nash,2020,9400666
+STZ,"Constellation Brands, Inc.",William Newlands,2020,9392650
+CLX,The Clorox Company,Benno Dorer,2019,9362715
+L,Loews Corporation,James Tisch,2019,9312872
+WEC,"WEC Energy Group, Inc.",J. Fletcher,2019,9262101
+MSCI,MSCI Inc.,Henry Fernandez,2019,9255960
+DFS,Discover Financial Services,Roger Hochschild,2019,9250436
+PHM,"PulteGroup, Inc.",Ryan Marshall,2019,9216065
+DOV,Dover Corporation,Richard Tobin,2019,9149075
+NRG,"NRG Energy, Inc.",Mauricio Gutierrez,2019,9146053
+MXIM,"Maxim Integrated Products, Inc.",Tunc Doluca,2019,9143785
+IEX,IDEX Corporation,Andrew Silvernail,2019,9119596
+VRSK,"Verisk Analytics, Inc.",Scott Stephenson,2019,9050882
+VRSN,"VeriSign, Inc.",D. Bidzos,2019,9024073
+FITB,Fifth Third Bancorp,Greg Carmichael,2019,8999237
+CMS,CMS Energy Corporation,Patricia Poppe,2019,8986702
+CHD,"Church & Dwight Co., Inc.",Matthew Farrell,2019,8985122
+KSS,Kohl's Corporation,Michelle Gass,2020,8983392
+SEE,Sealed Air Corporation,Edward Doheny II,2019,8972537
+AJG,Arthur J. Gallagher & Co.,J. Gallagher,2019,8960616
+GPS,"The Gap, Inc.",Art Peck,2020,8922585
+LUV,Southwest Airlines Co.,Gary Kelly,2019,8771124
+CF,"CF Industries Holdings, Inc.",W. Will,2019,8758243
+MTD,Mettler-Toledo International Inc.,Olivier Filliol,2019,8755320
+CHTR,"Charter Communications, Inc.",Thomas Rutledge,2019,8743601
+STT,State Street Corporation,Ronald O'Hanley,2019,8699401
+FLS,Flowserve Corporation,R. Rowe,2019,8681866
+MAS,Masco Corporation,Keith Allman,2019,8659363
+TSCO,Tractor Supply Company,Gregory Sandfort,2019,8655358
+HII,"Huntington Ingalls Industries, Inc.",C. Petters,2019,8641992
+CTAS,Cintas Corporation,Scott Farmer,2019,8621245
+AZO,"AutoZone, Inc.",William Rhodes,2019,8617562
+ALLE,Allegion Plc,David Petratis,2019,8552445
+ALB,Albemarle Corporation,Luther Kissam,2019,8521584
+HRB,"H&R Block, Inc.",Jeffrey Jones II,2019,8504020
+AVY,Avery Dennison Corporation,Mitchell Butier,2019,8495032
+VIAC,ViacomCBS Inc.,Robert Bakish,2019,8365385
+GL,Globe Life Inc.,Gary Coleman,2019,8342279
+HRL,Hormel Foods Corporation,James Snee,2019,8324267
+XYL,Xylem Inc.,Patrick Decker,2019,8317204
+ARE,"Alexandria Real Estate Equities, Inc.",Stephen Richardson,2019,8305638
+DTE,DTE Energy Company,Gerardo Norcia,2019,8228339
+CBOE,"Cboe Global Markets, Inc.",Edward Tilly,2019,8212785
+GPC,Genuine Parts Company,Paul Donahue,2019,8169948
+COST,Costco Wholesale Corporation,W. Jelinek,2019,8016200
+PAYX,"Paychex, Inc.",Martin Mucci,2019,7930520
+COO,"The Cooper Companies, Inc.",Albert White III,2019,7724745
+CNP,"CenterPoint Energy, Inc.",Scott Prochazka,2019,7724122
+COF,Capital One Financial Corporation,Richard Fairbank,2019,7705792
+AAP,"Advance Auto Parts, Inc.",Thomas Greco,2019,7691513
+GWW,"W.W. Grainger, Inc.",Donald Macpherson,2019,7665127
+RE,"Everest Re Group, Ltd.",Dominic Addesso,2019,7650265
+FRT,Federal Realty Investment Trust,Donald Wood,2019,7630858
+IFF,International Flavors & Fragrances Inc.,Andreas Fibig,2019,7629084
+LNT,Alliant Energy Corporation,John Larsen,2019,7619999
+NWL,"Newell Brands, Inc.",Ravichandra Saligram,2019,7569502
+SNA,Snap-on Incorporated,Nicholas Pinchuk,2019,7560073
+O,Realty Income Corporation,Sumit Roy,2019,7514361
+HBAN,Huntington Bancshares Incorporated,Stephen Steinour,2019,7488685
+WAB,Westinghouse Air Brake Technologies Corporation,Rafael Santana,2019,7484027
+RHI,Robert Half International Inc.,M. Waddell,2019,7433592
+IDXX,"IDEXX Laboratories, Inc.",Jay Mazelsky,2019,7419335
+QRVO,"Qorvo, Inc.",Robert Bruggeworth,2020,7394904
+APH,Amphenol Corporation,R. Norwitt,2019,7380975
+ODFL,"Old Dominion Freight Line, Inc.",Greg Gantt,2019,7344950
+NEM,Newmont Corporation,Thomas Palmer,2019,7332204
+AIV,Apartment Investment and Management Company,Terry Considine,2019,7305455
+BR,"Broadridge Financial Solutions, Inc.",Timothy Gokey,2019,7285994
+ULTA,"Ulta Beauty, Inc.",Mary Dillon,2020,7064799
+KIM,Kimco Realty Corporation,Conor Flynn,2019,6948567
+CPB,Campbell Soup Company,Mark Clouse,2019,6895774
+JWN,"Nordstrom, Inc.",Erik Nordstrom,2020,6872303
+LW,"Lamb Weston Holdings, Inc.",Thomas Werner,2019,6837282
+TFX,Teleflex Incorporated,Liam Kelly,2019,6782758
+DRE,Duke Realty Corporation,James Connor,2019,6693904
+NI,NiSource Inc.,Joseph Hamrock,2019,6628690
+JBHT,"J.B. Hunt Transport Services, Inc.",John Roberts,2019,6588249
+EQR,Equity Residential,Mark Parrell,2019,6588161
+WST,"West Pharmaceutical Services, Inc.",Eric Green,2019,6533688
+ISRG,"Intuitive Surgical, Inc.",Gary Guthart,2019,6470374
+STE,STERIS Plc (Ireland),Walter Rosebrough Jr.,2020,6458640
+LKQ,LKQ Corporation,Dominick Zarcone,2019,6429072
+EXPD,"Expeditors International of Washington, Inc.",Jeffrey Musser,2019,6424455
+ESS,"Essex Property Trust, Inc.",Michael Schall,2019,6419864
+PNR,Pentair Plc,John Stauch,2019,6413860
+EXPE,"Expedia Group, Inc.",Barry Diller,2019,6392072
+KSU,Kansas City Southern,Patrick Ottensmeyer,2019,6380412
+UDR,"UDR, Inc.",Thomas Toomey,2019,6307734
+EXR,Extra Space Storage Inc.,Joseph Margolis,2019,6284975
+BF.B,Brown-Forman Corporation,Lawson Whiting,2020,6196407
+CDW,CDW Corp.,Christine Leahy,2019,6191797
+CE,Celanese Corporation,Lori Ryerkerk,2019,6027803
+ETFC,E*TRADE Financial Corporation,Michael Pizzi,2019,6012990
+UAA,"Under Armour, Inc.",Kevin Plank,2019,5954169
+AWK,"American Water Works Company, Inc.",Susan Story,2019,5918455
+FLIR,"FLIR Systems, Inc.",James Cannon,2019,5860241
+PCAR,PACCAR Inc,R. Feight,2019,5850648
+PBCT,"People's United Financial, Inc.",John Barnes,2019,5800085
+EVRG,"Evergy, Inc.",Terry Bassham,2019,5793976
+MAA,"Mid-America Apartment Communities, Inc.",H. Bolton,2019,5735898
+MTB,M&T Bank Corporation,Rene Jones,2019,5704703
+REG,Regency Centers Corporation,Martin Stein,2019,5619541
+IR,"Ingersoll Rand, Inc.",Vicente Reynal,2019,5535511
+CINF,Cincinnati Financial Corporation,Steven Johnston,2019,5528654
+ALK,"Alaska Air Group, Inc.",Bradley Tilden,2019,5528316
+DPZ,"Domino's Pizza, Inc.",Richard Allison,2019,5495804
+AMCR,Amcor Plc,Ronald Delia,2019,5237557
+TAP,Molson Coors Beverage Company,Gavin Hattersley,2019,5234327
+MCD,McDonald's Corporation,Christopher Kempczinski,2019,5229155
+HFC,HollyFrontier Corporation,George Damiris,2019,5222831
+CHRW,"C.H. Robinson Worldwide, Inc.",Robert Biesterfeld,2019,5065928
+CMA,Comerica Incorporated,Curtis Farmer,2019,5012505
+JKHY,"Jack Henry & Associates, Inc.",David Foss,2019,4851479
+ROL,"Rollins, Inc.",Gary Rollins,2019,4780854
+LH,Laboratory Corporation of America Holdings,Adam Schechter,2019,4617739
+URI,"United Rentals, Inc.",Matthew Flannery,2019,4478261
+ZION,"Zions Bancorporation, National Association",Harris Simmons,2019,4341075
+PSA,Public Storage,Joseph Russell,2019,4289200
+NVR,"NVR, Inc.",Paul Saville,2019,3987000
+HBI,Hanesbrands Inc.,"Gerald Evans, Jr.",2019,3956325
+PNW,Pinnacle West Capital Corporation,Jeffrey Guldner,2019,3893048
+AOS,A. O. Smith Corporation,Kevin Wheeler,2019,3808438
+LB,"L Brands, Inc.",Leslie Wexner,2020,3783221
+GRMN,Garmin Ltd.,Clifton Pemble,2019,3233412
+MKTX,MarketAxess Holdings Inc.,Richard McVey,2019,3222708
+MHK,"Mohawk Industries, Inc.",Jeffrey Lorberbaum,2019,3126417
+ORLY,"O'Reilly Automotive, Inc.",Gregory Johnson,2019,3080482
+NLOK,NortonLifeLock Inc.,Gregory Clark,2019,2921039
+ADS,Alliance Data Systems Corporation,Charles Horn,2019,2645684
+ORCL,Oracle Corporation,Mark Hurd,2019,2481646
+AVGO,Broadcom Inc.,Hock Tan,2019,2366888
+FAST,Fastenal Company,Daniel Florness,2019,1759943
+AMZN,"Amazon.com, Inc.",Jeffrey Bezos,2019,1681840
+ILMN,"Illumina, Inc.",Francis deSouza,2019,1521949
+ANET,"Arista Networks, Inc.",Jayshree Ullal,2019,1384171
+IPGP,IPG Photonics Corporation,Valentin Gapontsev,2019,1251984
+WAT,Waters Corporation,Christopher O'Connell,2019,1084859
+DISH,DISH Network Corporation,W. Carlson,2019,1007020
+BRK.B,Berkshire Hathaway Inc.,Warren Buffett,2019,374773
+CPRT,"Copart, Inc.",A. Adair,2019,156316
+TTWO,"Take-Two Interactive Software, Inc.",Strauss Zelnick,2019,109540
+KMI,"Kinder Morgan, Inc.",Steven Kean,2019,7270
+TWTR,"Twitter, Inc.",Jack Dorsey,2019,1
